@@ -7,3 +7,4 @@ osx
 *.log
 *.qm
 .DS_Store
+.vscode
